@@ -19,7 +19,7 @@ venv/
 **/result/
 **/cluster_outputs/
 **/checkpoint/
-**/5FoldCV/
+# **/5FoldCV/
 !Retraining_ReTesting/end-to-end-model/5FoldCV/
 Parmeet_Results/
 Retraining_ReTesting/GAN/
